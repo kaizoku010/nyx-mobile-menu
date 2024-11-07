@@ -1,0 +1,25 @@
+{
+  "name": "nyx-drawer",
+  "version": "1.0.0",
+  "description": "Ever wanted to create a mobile menu in a react app but you keep feeling lazy about it?. react-mobile-drawer is a lightweight, customizable drawer component designed specifically for mobile view in React applications. With smooth animations and intuitive swipe gestures, this package enables you to add modern and user-friendly navigation drawers that are easy to integrate into any mobile-first design",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir dist --copy-files"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.25.9",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^9.2.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "react-mobile-drawer",
+  "version": "1.0.0",
+  "description": "Ever wanted to create a mobile menu in a react app but you keep feeling lazy about it? ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
