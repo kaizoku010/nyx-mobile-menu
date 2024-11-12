@@ -11,8 +11,8 @@ const Drawer = ({ children, width = '250px', isOpen = false, onClose, position =
     height: '100%',
     transition: 'transform 0.3s ease-in-out',
     transform: isOpen ? 'translateX(0)' : `translateX(-${width})`,
-    backgroundColor: backgroundColor,
-    color: textColor,
+    backgroundColor: '#333',
+    color: '#fff',
     overflowX: 'hidden',
     padding: '16px',
     zIndex: 2, // Ensures the drawer appears above other elements
